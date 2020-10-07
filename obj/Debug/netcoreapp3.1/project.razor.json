@@ -12,35 +12,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -233206958,
+        "HashCode": 660337861,
         "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Pages.Index",
+        "Name": "LuisDavidGil_P1_AP2.App",
         "AssemblyName": "LuisDavidGil-P1-AP2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.Index"
+          "Common.TypeName": "LuisDavidGil_P1_AP2.App"
         }
       },
       {
-        "HashCode": -1842590778,
+        "HashCode": 1216628456,
         "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Pages.Index",
+        "Name": "LuisDavidGil_P1_AP2.App",
         "AssemblyName": "LuisDavidGil-P1-AP2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LuisDavidGil_P1_AP2.Pages.Index"
+            "TagName": "LuisDavidGil_P1_AP2.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.Index",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -111,88 +111,35 @@
         }
       },
       {
-        "HashCode": 1750365095,
+        "HashCode": -233206958,
         "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
+        "Name": "LuisDavidGil_P1_AP2.Pages.Index",
         "AssemblyName": "LuisDavidGil-P1-AP2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt"
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.Index"
         }
       },
       {
-        "HashCode": -609778294,
+        "HashCode": -1842590778,
         "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
+        "Name": "LuisDavidGil_P1_AP2.Pages.Index",
         "AssemblyName": "LuisDavidGil-P1-AP2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "LuisDavidGil_P1_AP2.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1491372161,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1376526854,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -293,35 +240,88 @@
         }
       },
       {
-        "HashCode": 660337861,
+        "HashCode": -1491372161,
         "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.App",
+        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
         "AssemblyName": "LuisDavidGil-P1-AP2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.App"
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 1216628456,
+        "HashCode": -1376526854,
         "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.App",
+        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
         "AssemblyName": "LuisDavidGil-P1-AP2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LuisDavidGil_P1_AP2.App"
+            "TagName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.App",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1750365095,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -609778294,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
