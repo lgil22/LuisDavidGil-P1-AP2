@@ -72,6 +72,20 @@ using LuisDavidGil_P1_AP2.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\_Imports.razor"
+using Blazored.Toast;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\_Imports.razor"
+using Blazored.Toast.Services;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
     public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
     {

@@ -5,6 +5,7 @@
 @inject IToastService Toast
 
 
+
 <EditForm Model="productos" OnValidSubmit="Guardar">
 
     <div class="container shadow-lg p-3 rb-5 bg-white rounded col-md-12">
@@ -31,18 +32,24 @@
                 </div>
 
                 <div class="form-group">
+                    <label>Existencia</label>
+                    <InputNumber @bind-Value="productos.Existencia" @onclick="Inventario" class="form-control" />
+                    <ValidationMessage For="@(() => productos.Existencia)" />
+                </div>
+
+
+                <div class="form-group">
                     <label>Costo</label>
-                    <InputNumber @bind-Value="productos.Costo" class="form-control" />
+                    <InputNumber @bind-Value="productos.Costo" @onclick="Inventario" class="form-control" />
                     <ValidationMessage For="@(() => productos.Costo)" />
                 </div>
 
 
                 <div class="form-group">
-                    <label>Existencia</label>
-                    <InputNumber @bind-Value="productos.Existencia" class="form-control" />
-                    <ValidationMessage For="@(() => productos.Existencia)" />
+                    <label>Valor Inventario</label>
+                    <InputNumber @bind-Value="productos.ValorInventario" class="form-control"  readonly="true"/>
+                    <ValidationMessage For="@(() => productos.ValorInventario)" />
                 </div>
-
 
 
                 <!--Buttons--->
@@ -80,6 +87,12 @@
         productos = new Productos();
     }
 
+    private void Inventario()
+    {
+        decimal operacion = (productos.Existencia * productos.Costo);
+        productos.ValorInventario = operacion;
+    }
+
     private void Guardar()
     {
         bool guardado;
@@ -103,10 +116,10 @@
             if (encontrado != null)
             {
                 productos = encontrado;
-                Toast.ShowSuccess("Se ha Enconrado el producto");
+                Toast.ShowSuccess("Se a Encontrado el producto");
             }
             else
-                Toast.ShowWarning("No se pudo localizar la Persona indicada");
+                Toast.ShowWarning("No se pudo ecnontrar el producto indicado");
         }
     }
 
@@ -119,9 +132,10 @@
         if (elimino)
         {
             Nuevo();
-            Toast.ShowSuccess("Se ha Eliminado Exitosamente");
+            Toast.ShowSuccess("Se a Eliminado Exitosamente");
         }
         else
-            Toast.ShowError("No se pudo localizar la Persona indicada");
+            Toast.ShowError("No se pudo ecnontrar el producto indicado");
     }
+
 }

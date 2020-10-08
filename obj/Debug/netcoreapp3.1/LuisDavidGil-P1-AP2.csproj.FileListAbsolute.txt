@@ -88,3 +88,13 @@ C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\runtimes\
 C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\LuisDavidGil-P1-AP2.StaticWebAssets.xml
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ProductosComponent.razor.g.cs
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\obj\Debug\netcoreapp3.1\Razor\Pages\ProductosComponent.razor.g.cs
