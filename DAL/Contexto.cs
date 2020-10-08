@@ -2,6 +2,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using  LuisDavidGil_P1_AP2.Models;
 
+
 namespace LuisDavidGil_P1_AP2.DAL
 {
         public class Contexto : DbContext

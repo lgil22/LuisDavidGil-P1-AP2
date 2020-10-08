@@ -94,3 +94,5 @@ C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Microsoft
 C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
 C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ProductosComponent.razor.g.cs
 C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\obj\Debug\netcoreapp3.1\Razor\Pages\ProductosComponent.razor.g.cs
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ConsultaProductosComponent.razor.g.cs
+C:\Aplicada2\PrimerParcial\LuisDavidGil-P1-AP2\obj\Debug\netcoreapp3.1\Razor\Pages\ConsultaProductosComponent.razor.g.cs

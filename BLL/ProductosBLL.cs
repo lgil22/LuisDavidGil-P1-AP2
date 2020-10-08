@@ -1,10 +1,13 @@
 using System.Linq;
 using System.Threading.Tasks;
+using System.Collections.Generic;
+using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
 using LuisDavidGil_P1_AP2.Data;
 using LuisDavidGil_P1_AP2.Models;
 using System;
 using LuisDavidGil_P1_AP2.DAL;
+
 
 namespace LuisDavidGil_P1_AP2.BLL
 {
@@ -127,6 +130,27 @@ namespace LuisDavidGil_P1_AP2.BLL
                 contexto.Dispose();
             }
             return producto;
+        }
+
+        public static List<Productos> GetList(Expression<Func<Productos, bool>> expression)
+        {
+            List<Productos> lista = new List<Productos>();
+            Contexto contexto = new Contexto();
+
+            try
+            {
+                lista = contexto.Productos.Where(expression).ToList();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally
+            {
+                contexto.Dispose();
+            }
+            return lista;
         }
     }
 }
