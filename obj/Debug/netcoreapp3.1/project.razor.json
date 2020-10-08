@@ -12,6 +12,72 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -233206958,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Pages.Index",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1842590778,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Pages.Index",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LuisDavidGil_P1_AP2.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 328821482,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ConsultaProductosComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent"
+        }
+      },
+      {
+        "HashCode": 780608178,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1440785306,
         "Kind": "Components.Component",
         "Name": "LuisDavidGil_P1_AP2.Pages.ProductosComponent",
@@ -65,105 +131,6 @@
         }
       },
       {
-        "HashCode": 328821482,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ConsultaProductosComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent"
-        }
-      },
-      {
-        "HashCode": 780608178,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.ConsultaProductosComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -233206958,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Pages.Index",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1842590778,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Pages.Index",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LuisDavidGil_P1_AP2.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1491372161,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1376526854,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1750365095,
         "Kind": "Components.Component",
         "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
@@ -213,6 +180,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1491372161,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1376526854,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
