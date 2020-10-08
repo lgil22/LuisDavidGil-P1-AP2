@@ -19,6 +19,7 @@
                     <label>ID</label>
                     <div class="input-group">
                         <InputNumber @bind-Value="productos.id" class="form-control" />
+                        <ValidationMessage For="@(() => productos.id)"></ValidationMessage>
                         <div class="input-group-append">
                             <button type="button" class="btn btn-primary input-group-text" @onclick="Buscar">Buscar</button>
                         </div>
@@ -59,7 +60,7 @@
                         <button type="button" class="btn btn-outline-secondary" @onclick="Nuevo">Nuevo</button>
                     </div>
                     <div class="btn-group mr-5" role="group" aria-label="Second group">
-                        <button type="submit" class="btn btn-outline-success" @onclick="Guardar">Guardar</button>
+                        <button type="submit" class="btn btn-outline-success"> Guardar</button>
                     </div>
 
                     <div class="btn-group" role="group" aria-label="Third group">
@@ -75,11 +76,21 @@
 @code{
     Productos productos = new Productos();
 
-    //[Parameter] public int #Id { get; set; }
+    [Parameter] 
+    public int id { get; set; }
 
     protected override void OnInitialized()
     {
         Nuevo();
+          Productos AuxProducto;
+        if (id > 0)
+        {
+            AuxProducto = ProductosBLL.Buscar(id);
+            if (AuxProducto != null)
+                productos = AuxProducto;
+            else
+                Toast.ShowInfo("No encontrado..");
+        }
     }
 
     private void Nuevo()

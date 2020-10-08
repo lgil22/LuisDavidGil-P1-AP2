@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 660337861,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.App",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.App"
+        }
+      },
+      {
+        "HashCode": 1216628456,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.App",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LuisDavidGil_P1_AP2.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -233206958,
         "Kind": "Components.Component",
         "Name": "LuisDavidGil_P1_AP2.Pages.Index",
@@ -45,7 +78,7 @@
         }
       },
       {
-        "HashCode": -1522342377,
+        "HashCode": -1440785306,
         "Kind": "Components.Component",
         "Name": "LuisDavidGil_P1_AP2.Pages.ProductosComponent",
         "AssemblyName": "LuisDavidGil-P1-AP2",
@@ -55,13 +88,23 @@
             "TagName": "ProductosComponent"
           }
         ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.ProductosComponent"
         }
       },
       {
-        "HashCode": -1854973707,
+        "HashCode": -712113027,
         "Kind": "Components.Component",
         "Name": "LuisDavidGil_P1_AP2.Pages.ProductosComponent",
         "AssemblyName": "LuisDavidGil-P1-AP2",
@@ -71,95 +114,19 @@
             "TagName": "LuisDavidGil_P1_AP2.Pages.ProductosComponent"
           }
         ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LuisDavidGil_P1_AP2.Pages.ProductosComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1750365095,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -609778294,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1491372161,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1376526854,
-        "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
-        "AssemblyName": "LuisDavidGil-P1-AP2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -260,35 +227,88 @@
         }
       },
       {
-        "HashCode": 660337861,
+        "HashCode": -1491372161,
         "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.App",
+        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
         "AssemblyName": "LuisDavidGil-P1-AP2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.App"
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 1216628456,
+        "HashCode": -1376526854,
         "Kind": "Components.Component",
-        "Name": "LuisDavidGil_P1_AP2.App",
+        "Name": "LuisDavidGil_P1_AP2.Shared.NavMenu",
         "AssemblyName": "LuisDavidGil-P1-AP2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LuisDavidGil_P1_AP2.App"
+            "TagName": "LuisDavidGil_P1_AP2.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LuisDavidGil_P1_AP2.App",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1750365095,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -609778294,
+        "Kind": "Components.Component",
+        "Name": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
+        "AssemblyName": "LuisDavidGil-P1-AP2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LuisDavidGil_P1_AP2.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
